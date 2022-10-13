@@ -1,5 +1,5 @@
 {
-  "title": "Clean Blog",
+  "title": "Our Blog",
   "name": "startbootstrap-clean-blog",
   "version": "5.0.10",
   "scripts": {
@@ -22,10 +22,6 @@
   "contributors": [
     "Trong-Minh Le"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/letrongminh/ourblog.git"
-  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "6.2.0",
     "bcrypt": "^5.1.0",
