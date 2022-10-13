@@ -1,0 +1,58 @@
+{
+  "title": "Clean Blog",
+  "name": "startbootstrap-clean-blog",
+  "version": "5.0.10",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "description": "OurBlog.",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "license": "MIT",
+  "engines":{
+    "node": "^18.10.0"
+  },
+  "author": "trongminhle",
+  "contributors": [
+    "Trong-Minh Le"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letrongminh/ourblog.git"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "6.2.0",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "bootstrap": "5.2.2",
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "express-session": "^1.17.3",
+    "jquery": "3.6.1",
+    "mongoose": "^6.6.5",
+    "mongoose-unique-validator": "^3.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "2.27.10",
+    "del": "7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "4.3.0",
+    "gulp-header": "2.0.9",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "2.0.0",
+    "gulp-sass": "5.1.0",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "2.0.0",
+    "nodemon": "^2.0.20"
+  },
+  "main": "gulpfile.js"
+}
