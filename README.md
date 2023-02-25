@@ -8,7 +8,7 @@ Visit [here](https://trmihnle-cfs-1st.herokuapp.com/)
 
 ## 
 This blog is my personal project in implementing a website based on MERN Stack.
-have any questions? Please contact us by email [contact](minh.letrong.vn@gmail.com)
+have any questions? Please contact us by email [contact](mailto:minh.letrong.vn@gmail.com)
 
 ## Update!
 
