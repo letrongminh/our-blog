@@ -1,12 +1,11 @@
 # OurBlog
 
 Where you can talk about your journey!
-
+You can sign up for your own account then tell your own stories with us.
 
 Visit [here](https://trmihnle-cfs-1st.herokuapp.com/)
 
 
-####################
 
 ## Update!
 
