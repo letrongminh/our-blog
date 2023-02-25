@@ -1,4 +1,4 @@
-# OurBlog
+# OurBlog - personal blogging
 
 Where you can talk about your journey!
 You can sign up for your own account then tell your own stories with us.
@@ -6,6 +6,9 @@ You can sign up for your own account then tell your own stories with us.
 Visit [here](https://trmihnle-cfs-1st.herokuapp.com/)
 
 
+## 
+This blog is my personal project in implementing a website based on MERN Stack.
+have any questions? Please contact us by email [contact](minh.letrong.vn@gmail.com)
 
 ## Update!
 
